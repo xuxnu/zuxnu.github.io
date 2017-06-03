@@ -1,0 +1,13 @@
+Package: com.zuxnu.disableiconshadow
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: Jubaier
+Filename: ./deb_files/com.zuxnu.disableiconshadow.deb
+Size: 2142
+MD5sum: 6740faf7308e28d85a2a4f7e8f355355
+SHA1: 53833e7977ab7b91de02c6a45b054c65d88678e6
+SHA256: 5a7fbaf148add35a5ff88c597835686c9961652d45664b53200599c235b1d78e
+Section: Tweaks
+Description: Disable ignoring shadows of your Springboard's icons! Nothing to configure here.
+Author: @zuxnu
+Name: Disable Icon Shadow
